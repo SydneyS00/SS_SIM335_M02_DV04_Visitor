@@ -6,7 +6,7 @@ This is the main github page for all of the development components
 
 # Strategy
 - GitHub Page:
-- WebGL link:
+- WebGL link: https://sydneys00.github.io/SS_SIM335_M02_DV04_Strategy/
 
 # Decorator
 - GitHub Page:
