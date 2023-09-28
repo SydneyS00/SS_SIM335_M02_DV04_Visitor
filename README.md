@@ -5,7 +5,7 @@ This is the main github page for all of the development components
 - WebGL link: https://sydneys00.github.io/SS_SIM335_M02_DV04_Visitor/
 
 # Strategy
-- GitHub Page:
+- GitHub Page: https://github.com/SydneyS00/SS_SIM335_M02_DV04_Strategy
 - WebGL link: https://sydneys00.github.io/SS_SIM335_M02_DV04_Strategy/
 
 # Decorator
